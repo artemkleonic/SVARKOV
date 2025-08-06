@@ -25401,11 +25401,11 @@ const _s = document.querySelector(".workouts"),
           name: "\u0411\u0435\u0437\u0440\u0430\u0434\u0438\u0447\u0456",
           category: "terasy",
           coords: [50.1877382, 30.5539471],
-          mainphoto: "imgs/terasy/bezradychi/IMG-3758.jpg",
+          mainphoto: "https://www.svarkov.net/imgs/terasy/brovary/10-2.jpg",
           description: "",
           mediarefs: [
-            "imgs/terasy/bezradychi/IMG-3758.jpg",
-            "imgs/terasy/bezradychi/IMG-3761.jpg",
+            ".https://www.svarkov.netimgs/terasy/bezradychi/IMG-3758.jpg",
+            "https://www.svarkov.net/imgs/terasy/bezradychi/IMG-3761.jpg",
           ],
           parameters: [
             {
@@ -26948,7 +26948,7 @@ const _s = document.querySelector(".workouts"),
           category: "shody",
           name: "\u0411\u0435\u0437\u0440\u0430\u0434\u0438\u0447\u0456",
           coords: [50.1877382, 30.5539471],
-          mainphoto: "imgs/shody/bezradychi/IMG-1115.jpg",
+          mainphoto: "https://svarkov.net/imgs/shody/bezradychi/IMG-1115.jpg",
           description: "",
           "media-refs": [
             "imgs/shody/bezradychi/IMG-1114.jpg",

@@ -1,27 +1,27 @@
 @font-face {
   font-family: Ubuntu;
-  src: url(/build/assets/Ubuntu-Light.e3e72639.ttf);
+  src: url(/Ubuntu-Light.e3e72639.ttf);
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Ubuntu;
-  src: url(/build/assets/Ubuntu-Regular.66fea9c0.ttf);
+  src: url(/Ubuntu-Regular.66fea9c0.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Ubuntu;
-  src: url(/build/assets/Ubuntu-Medium.0d685f51.ttf);
+  src: url(/Ubuntu-Medium.0d685f51.ttf);
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Ubuntu;
-  src: url(/build/assets/Ubuntu-Bold.6dbcce3f.ttf);
+  src: url(./Ubuntu-Bold.6dbcce3f.ttf);
   font-weight: 700;
   font-style: normal;
   font-display: swap;
